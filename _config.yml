@@ -1,6 +1,8 @@
 # Configurations
 title:            Jekyll Gitbook
 longtitle:        Jekyll Gitbook
+toc:
+    enabled: true
 
 remote_theme:     sighingnow/jekyll-gitbook
 
